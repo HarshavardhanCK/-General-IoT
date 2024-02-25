@@ -1,7 +1,7 @@
 # -General-IoT
 Task for Oralens
 
--IoT Device Control System-
+_IoT Device Control System_
 
 This repository contains the code for an IoT device control system designed to collect environmental and positional data. The system utilizes a Raspberry Pi platform along with various sensors and actuators for data collection and user interaction.
 
